@@ -15,7 +15,7 @@ function FilmsList () {
     <div>
       {
         films.length > 0 &&  
-        <table className="films-table">
+        <table className="table">
           <thead>
             <tr>
               <th className="table-cell">Title</th>

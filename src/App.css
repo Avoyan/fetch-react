@@ -14,7 +14,7 @@
   background-color: #008CBA;
 }
 
-.films-table {
+.table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 100%;
@@ -27,8 +27,7 @@
 }
 
 .dog-breed-img {
-  width: 200px;
-  height: 200px;
+  height: 400px;
 }
 
 .card {
